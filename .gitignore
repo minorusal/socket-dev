@@ -1,0 +1,12 @@
+# VSCODE
+.vscode
+# NODE_APP
+node_modules
+# .env
+.env
+# dist
+dist
+# Apple
+AuthKey_A2TG6FFGQ9.p8
+# Google
+fcm.json
